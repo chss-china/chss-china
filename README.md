@@ -4,7 +4,7 @@
 - 🌱Estudo na Kenzie Academy Brasil, curso de 2.000 horas de Desenvolvimento Full Stack que abrange tecnologias Front End e Back End além, de soft skills necessárias para o     mercado de trabalho. Entre as linguagens e tecnologias aprendidas, estão HTML5, CSS3, JavaScript (ES6+), React, Node.js, Python (Django) e SQL.
 - 💬 Contate me: chss.bolsa99@gmail.com
 
-![chss-china GitHub stats](https://github-readme-stats.vercel.app/api?username=chss-china&show_icons=true&theme=radical)
+![chss-china GitHub stats](https://github-readme-stats.vercel.app/api?username=chss-china&show_icons=true&theme=tokyonight)
 
 - ## Tecnologias que uso no meu dia a dia
 <div style="display: inline_block"><br>
