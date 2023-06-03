@@ -3,6 +3,10 @@
 - 🔭 Procuro trabalho com Desenvolvimento Web Full Stack
 - 🌱Estudo na Kenzie Academy Brasil, curso de 2.000 horas de Desenvolvimento Full Stack que abrange tecnologias Front End e Back End além, de soft skills necessárias para o     mercado de trabalho. Entre as linguagens e tecnologias aprendidas, estão HTML5, CSS3, JavaScript (ES6+), React, Node.js, Python (Django) e SQL.
 - 💬 Contate me: chss.bolsa99@gmail.com
+
+![chss-china GitHub stats](https://github-readme-stats.vercel.app/api?username=chss-china&show_icons=true&theme=radical)
+
+- ## Tecnologias que uso no meu dia a dia
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -18,11 +22,12 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://media.zeemly.com/zeemly/product/expressjs.png">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://static.platzi.com/media/user_upload/22-Styled%20Components-953e1945-906c-4764-81a0-25436f5603ca.jpg">
 </div>
-  
-  ##
  
+ ## Contatos
 <div> 
   <a href = "mailto:chss.bolsa99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caiosantanaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
 
