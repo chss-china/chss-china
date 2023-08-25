@@ -21,6 +21,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://media.zeemly.com/zeemly/product/expressjs.png">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://static.platzi.com/media/user_upload/22-Styled%20Components-953e1945-906c-4764-81a0-25436f5603ca.jpg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbcrypt.online%2F&psig=AOvVaw1oy75D3xYY_sm1hQphOXve&ust=1693068800567000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDGu_Wi-IADFQAAAAAdAAAAABAE">
+
 </div>
  
  ## Contatos
