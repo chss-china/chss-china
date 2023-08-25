@@ -6,7 +6,7 @@
 
 ![chss-china GitHub stats](https://github-readme-stats.vercel.app/api?username=chss-china&show_icons=true&theme=tokyonight)
 
-- ## Tecnologias que uso no meu dia a dia
+- ## Principais Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,7 +21,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://media.zeemly.com/zeemly/product/expressjs.png">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://static.platzi.com/media/user_upload/22-Styled%20Components-953e1945-906c-4764-81a0-25436f5603ca.jpg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvelog.io%2F%40kwontae1313%2Fbcryptjs-%25EB%25A5%25BC-%25EC%2582%25AC%25EC%259A%25A9%25ED%2595%25B4%25EB%25B3%25B4%25EC%259E%2590&psig=AOvVaw1oy75D3xYY_sm1hQphOXve&ust=1693068800567000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDGu_Wi-IADFQAAAAAdAAAAABAV"
+ 
 
 </div>
  
